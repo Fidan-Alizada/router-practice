@@ -1,0 +1,135 @@
+.home-content {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+  }
+  
+  .hero-text {
+    max-width: 50%;
+  }
+  
+  .hero-text h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-text p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-text .btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .hero-image img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .features {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .features h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(56, 19, 241, 0.545);
+    max-width: 30%;
+    
+  }
+  
+  .feature-card h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-card p {
+    font-size: 16px;
+  }
+  
+  .testimonials {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .testimonials h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .testimonial-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(17, 31, 221, 0.726);
+    max-width: 45%;
+  }
+  
+  .testimonial-card p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-card h4 {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .cta {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  .cta h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .cta p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .cta .btn {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
